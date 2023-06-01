@@ -12,8 +12,7 @@ To write a python program for creating Echo Client and Echo Server using TCP Soc
 # ALGORITHM :
 1. Import the necessary modules in python
 2. Create a socket connection to using the socket module.
-3. Send message to the client and receive the message from the client using the Socket module in
-server.
+3. Send message to the client and receive the message from the client using the Socket module in server.
 4. Send and receive the message using the send function in socket.
 # PROGRAM :
 # CLIENT :
@@ -39,15 +38,16 @@ while True:
 ```
    
 # CLIENT OUTPUT : 
-![cient8](https://github.com/ARUNKUMART9968/EX-8/assets/121215794/78c83348-532d-49aa-8fd1-9a9c9decf853)
+![client](https://github.com/Skanthasishanth/EX-8/assets/118298456/d532489e-0bf4-49bb-9509-17b3e7817519)
+
 
 
 # SERVER OUTPUT :
-![server8](https://github.com/ARUNKUMART9968/EX-8/assets/121215794/a566bc73-9b9e-45cf-98f3-6e2703928ff4)
 
+
+![server](https://github.com/Skanthasishanth/EX-8/assets/118298456/bc6592ae-6e96-4fba-895c-043900b51416)
 
 
 # RESULT :
-Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links
-was successfully created and executed.
+Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links was successfully created and executed.
 
