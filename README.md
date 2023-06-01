@@ -38,14 +38,16 @@ while True:
 ```
    
 # CLIENT OUTPUT : 
-![client](https://github.com/Skanthasishanth/EX-8/assets/118298456/d532489e-0bf4-49bb-9509-17b3e7817519)
+![client](https://github.com/Skanthasishanth/EX-8/assets/118298456/b3b72844-a3d4-462c-b28e-0da9e770848f)
+
 
 
 
 # SERVER OUTPUT :
 
 
-![server](https://github.com/Skanthasishanth/EX-8/assets/118298456/bc6592ae-6e96-4fba-895c-043900b51416)
+
+![server](https://github.com/Skanthasishanth/EX-8/assets/118298456/1893c37c-d883-436d-beab-07a3ca47612b)
 
 
 # RESULT :
